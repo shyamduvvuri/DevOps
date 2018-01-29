@@ -11,3 +11,7 @@ Modified to test the Git Diff command.
 Modifying for the 2nd time.
 
 Modifying changes from develop branch.
+
+This is for testing feature1 branch and changes made from it to reflect in develop and eventually in master.
+
+This includes a fix for a defect ID: 12345.
